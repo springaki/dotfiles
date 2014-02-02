@@ -1,5 +1,10 @@
 #!/bin/sh
 
+# submodules
+
+git submodule init
+git submodule update
+
 # make symbolic links
 
 link_file() {
