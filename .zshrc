@@ -93,7 +93,7 @@ esac
 alias vi=vim
 alias ll='ls -la'
 alias be='bundle exec'
-alias sublime2='open -a /Applications/Sublime\ Text\ 2.app/'
+alias sublime2='open -a ~/Applications/Sublime\ Text.app'
 
 export PATH="$HOME/.rbenv/bin:$PATH"
 
