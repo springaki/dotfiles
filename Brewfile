@@ -5,9 +5,10 @@
 #brew 'redis'
 #brew 'imagemagick'
 #brew 'mysql'
+brew 'pow'
 
 tap 'phinze/homebrew-cask'
-install ‘brew-cask’
+ install ‘brew-cask’
 install 'google-chrome'
 cask install ‘sketch’
 cask install 'omnigraffle'
